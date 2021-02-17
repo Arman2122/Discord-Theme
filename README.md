@@ -10,7 +10,7 @@
 - Download the latest release
 - Download URHC-theme.theme.css
 - Put it On Themes Folder On Better Discord 
-- This Location Setting>Themes
+- This Location: Setting>Themes
 - Press "Open Theme Folder" On Top Left
 - And Put On The Folder
 - Enjoy!
